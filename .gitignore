@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Outputs
+outputs/*
+!outputs/.gitkeep
+
+# Database
+*.db
+*.sqlite
