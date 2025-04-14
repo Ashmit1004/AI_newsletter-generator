@@ -1,0 +1,8 @@
+streamlit>=1.22.0
+feedparser==6.0.10
+bs4
+numpy
+scikit-learn
+sentence-transformers
+nltk==3.8.1
+beautifulsoup4==4.12.0
